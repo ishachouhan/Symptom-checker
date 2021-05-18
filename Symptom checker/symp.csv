@@ -1,0 +1,11 @@
+﻿Sr. No.,Disease,Headache,Fever,Stomach Ache,Body Pain,Nausea 
+1,Common cold,yes,yes,no,no,no
+2,Seasonal Flu,yes,yes,no,yes,no
+3,Migraine,yes,no,no,no ,yes
+4,COVID-19,yes,yes,no,yes,yes
+5,Stomach aches,no,yes,yes,no,yes
+6,Diarrhea,no,yes,yes,no ,yes
+7,Pink eye,no,no,no,no,no
+8,Food poisoning,no,yes,yes,no,yes
+9,JAUNDICE,no,yes,yes,no,no
+10,Chickenpox,yes,yes,no,no,no
